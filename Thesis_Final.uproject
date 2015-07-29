@@ -16,5 +16,9 @@
 			"Name": "SoundVisualizations",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"MacNoEditor",
+		"WindowsNoEditor"
 	]
 }
